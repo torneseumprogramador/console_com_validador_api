@@ -34,6 +34,7 @@ namespace console_exemplo_itau
                 else
                 {
                     Console.WriteLine("Sua licença expirou, contate o administrador do sistema");
+                    //Application.Exit()
                 }                
             } 
         }
